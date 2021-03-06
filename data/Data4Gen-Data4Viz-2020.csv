@@ -1,0 +1,156 @@
+ID,country,sub_region,geo_scope,shutdown_type_new,affected_network,shutdown_extent,ordered_by,actual_cause,duration_days,official_just,shutdown_status
+1,Pakistan,Southern Asia,Level 2,Shutdown,"Broadband, Mobile",Full network,Executive government,Other,1721,Technical problems/ Infrastructure failure,Ongoing
+2,Myanmar,South-Eastern Asia,Level 2,Throttle,Mobile,Full network,Executive government,Political instability,616,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ongoing
+3,India,Southern Asia,Level 2,Shutdown,"Broadband, Mobile",Full network,State government,Political instability,176,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+4,Bangladesh,Southern Asia,Level 1,Throttle,Mobile,Full network,Executive government,Protests,355,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+5,India,Southern Asia,Level 2,Shutdown,"Broadband, Mobile",Full network,Local government,Religious holiday/anniversary,1,Precautionary measure,Ended
+6,India,Southern Asia,Level 2,Shutdown,Unknown,Full network,Local government,Communal violence,5,Public safety/ Quell unrest / Restore public order,Ended
+7,Ethiopia,Eastern Africa,Level 2,Shutdown,"Broadband, Mobile","Full network, Service-based",State government,Political instability,90,National security/ Counter-terrorism,Ended
+8,India,Southern Asia,Level 1,Shutdown,"Broadband, Mobile",Full network,Unknown,Protests,,Unknown,Unknown
+9,Venezuela (Bolivarian Republic of),South America,Level 3,Shutdown,"Broadband, Mobile",Service-based,Unknown,Other,1,Unknown,Ended
+10,India,Southern Asia,Level 2,Throttle,Mobile,Full network,Local government,Political instability,414,Precautionary measure,Ongoing 
+11,Togo,Western Africa,Level 3,Shutdown,Mobile,Full network,Executive government,Unknown,2,Unknown,Ended
+12,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Religious holiday/anniversary,2,National security/ Counter-terrorism,Ended
+13,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Other,2,Precautionary measure,Ended
+14,Yemen,Western Asia,Level 3,Shutdown,"Broadband, Mobile",Full network,Executive government,Other,,Unknown,Unknown
+15,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Protests,1,Precautionary measure,Ended
+16,Iran (Islamic Republic of),Southern Asia,Level 3,Shutdown,"Broadband, Mobile",Full network,Executive government,Unknown,1,Other,Ended
+17,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Religious holiday/anniversary,1,Precautionary measure,Ended
+18,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Other,3,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+19,Viet Nam,South-Eastern Asia,Level 3,Throttle,"Broadband, Mobile",Service-based,Executive government,Information control,51,Illegal content,Ended
+20,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,State government,Exam cheating,10,School exams,Ended
+21,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+22,Togo,Western Africa,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Unknown,Elections,3,Unknown,Ended
+23,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+24,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Protests,6,Public safety/ Quell unrest / Restore public order,Ended
+25,Turkey,Western Asia,Level 3,Shutdown,"Broadband, Mobile",Service-based,Executive government,Other,2,Unknown,Ended
+26,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,State government,Communal violence,3,Public safety/ Quell unrest / Restore public order,Ended
+27,Kenya,Eastern Africa,Level 1,Shutdown,Mobile,Full network,Non-government,Other,1,Unknown,Ended
+28,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+29,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+30,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Communal violence,4,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+31,Guinea,Western Africa,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Unknown,Elections,3,Unknown,Ended
+32,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+33,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+34,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+35,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+36,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+37,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+38,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+39,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+40,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+41,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Other,3,Precautionary measure,Ended
+42,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+43,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+44,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+45,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+46,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+47,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,8,Precautionary measure,Ended
+48,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Communal violence,6,Public safety/ Quell unrest / Restore public order,Ended
+49,India,Southern Asia,Level 2,"Shutdown, Throttle",Mobile,Full network,Local government,Political instability,16,Precautionary measure,Ended
+50,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Protests,2,Precautionary measure,Ended
+51,Sudan,Northern Africa,Level 1,Shutdown,Mobile,Full network,Unknown,Communal violence,3,Other,Ended
+52,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+53,Pakistan,Southern Asia,Level 3,Shutdown,"Broadband, Mobile",Service-based,Unknown,Unknown,1,Unknown,Ended
+54,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Unknown,Political instability,5,Precautionary measure,Ended
+55,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+56,Burundi,Eastern Africa,Level 3,Shutdown,Mobile,Service-based,Unknown,Elections,2,Unknown,Ended
+57,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+58,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+59,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+60,Venezuela (Bolivarian Republic of),South America,Level 3,Shutdown,"Broadband, Mobile",Service-based,Unknown,Other,1,Unknown,Ended
+61,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+62,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,3,Precautionary measure,Ended
+63,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+64,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,3,Precautionary measure,Ended
+65,Ecuador,South America,Level 3,Shutdown,"Broadband, Mobile",Service-based,Unknown,Unknown,1,Unknown,Ended
+66,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+67,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+68,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Military,Political instability,,Unknown,Unknown
+69,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+70,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,3,Precautionary measure,Ended
+71,Belarus,Eastern Europe,Level 3,Shutdown,"Broadband, Mobile","Full network, Service-based",Executive government,Other,1,Unknown,Ended
+72,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+73,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+74,Chad,Middle Africa,Level 3,"Shutdown, Throttle","Broadband, Mobile",Service-based,Executive government,Communal violence,58,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+75,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+76,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+77,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+78,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+79,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+80,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+81,Ethiopia,Eastern Africa,Level 3,Shutdown,"Broadband, Mobile",Full network,Executive government,Political instability,38,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+82,Jordan,Western Asia,Level 3,Shutdown,"Broadband, Mobile",Service-based,Executive government,Exam cheating,23,School exams,Ended
+83,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+84,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+85,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Religious holiday/anniversary,1,Precautionary measure,Ended
+86,Yemen,Western Asia,Level 1,Shutdown,"Broadband, Mobile",Full network,Non-government,Other,15,Unknown,Ended
+87,Mali,Western Africa,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Unknown,Protests,6,Unknown,Ended
+88,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+89,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+90,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+91,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+92,Yemen,Western Asia,Level 3,Shutdown,"Broadband, Mobile",Full network,Unknown,Political instability,,Unknown,Unknown
+93,Jordan,Western Asia,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Unknown,Protests,14,Unknown,Ended
+94,Belarus,Eastern Europe,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Executive government,Elections,121,National security/ Counter-terrorism,Ended
+95,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Religious holiday/anniversary,1,Precautionary measure,Ended
+96,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+97,Chad,Middle Africa,Level 3,Shutdown,"Broadband, Mobile",Service-based,Executive government,Communal violence,193,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ongoing
+98,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+99,Yemen,Western Asia,Level 1,Shutdown,Mobile,Full network,Non-government,Unknown,,Unknown,Unknown
+100,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+101,Syrian Arab Republic,Western Asia,Level 3,Shutdown,"Broadband, Mobile",Full network,Unknown,Exam cheating,10,School exams,Ended
+102,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+103,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+104,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+105,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+106,Algeria,Northern Africa,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Executive government,Exam cheating,6,School exams,Ended
+107,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+108,Sudan,Northern Africa,Level 3,Shutdown,Mobile,Full network,Executive government,Exam cheating,12,School exams,Ended
+109,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+110,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Protests,4,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+111,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+112,Yemen,Western Asia,Level 1,Shutdown,"Broadband, Mobile",Full network,Non-government,Other,,Unknown,Unknown
+113,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Protests,,Public safety/ Quell unrest / Restore public order,Unknown
+114,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+115,Azerbaijan,Western Asia,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Executive government,Other,47,Other,Ended
+116,Kyrgyzstan,Central Asia,Level 3,Throttle,"Broadband, Mobile",Full network,Unknown,Elections,,Unknown,Unknown
+117,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+118,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+119,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+120,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+121,Yemen,Western Asia,Level 1,Shutdown,"Broadband, Mobile",Full network,Unknown,Other,,Unknown,Unknown
+122,India,Southern Asia,Level 2,Shutdown,"Broadband, Mobile",Full network,Local government,Protests,2,Precautionary measure,Ended
+123,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+124,"Tanzania, United Republic of",Eastern Africa,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Executive government,Elections,133,National security/ Counter-terrorism,Ongoing
+125,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+126,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+127,Egypt,Northern Africa,Level 3,Shutdown,"Broadband, Mobile",Service-based,Unknown,Unknown,2,Unknown,Ended
+128,Guinea,Western Africa,Level 3,"Shutdown, Throttle","Broadband, Mobile","Full network, Service-based",Executive government,Elections,6,Unknown,Ended
+129,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+130,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Protests,,Precautionary measure,Unknown 
+131,India,Southern Asia,Level 2,Shutdown,Mobile,Full network,Local government,Exam cheating,1,School exams,Ended
+132,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+133,Ethiopia,Eastern Africa,Level 2,Shutdown,"Broadband, Mobile",Full network,Unknown,Other ,115,Unknown,Ongoing
+134,Ethiopia,Eastern Africa,Level 2,Shutdown,"Broadband, Mobile",Full network,Executive government,Political instability,115,Unknown,Ongoing
+135,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+136,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,1,Precautionary measure,Ended
+137,India,Southern Asia,Level 2,"Shutdown, Throttle",Mobile,Full network,Local government,Elections,15,Precautionary measure,Ended
+138,India,Southern Asia,Level 1,Shutdown ,Mobile,Full network,Local government,Other ,3,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+139,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Other ,1,Precautionary measure,Ended
+140,Uganda,Eastern Africa,Level 3,Throttle,"Broadband, Mobile",Service-based,Executive government,Protests,98,Illegal content,Ongoing
+141,Cuba,Caribbean,Level 3,Shutdown,"Broadband, Mobile",Service-based,Executive government,Protests,4,Unknown,Ended
+142,India,Southern Asia,Level 1,Shutdown ,Mobile,Full network,Local government,Elections,1,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+143,India,Southern Asia,Level 1,Shutdown ,Mobile,Full network,Local government,Elections,2,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+144,India,Southern Asia,Level 2,"Shutdown, Throttle",Mobile,Full Network ,Local government,Elections,1,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+145,India,Southern Asia,Level 2,Shutdown ,Mobile,Full network,Local government,Elections,2,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+146,India,Southern Asia,Level 2,Shutdown ,Mobile,Full network,Local government,Elections,1,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+147,Iraq,Western Asia,Level 1,Shutdown,"Broadband, Mobile","Full network, Service-based",Unknown,Protests,1,Unknown,Ended
+148,India,Southern Asia,Level 2,Shutdown ,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+149,India,Southern Asia,Level 2,Shutdown ,Mobile,Full network,Local government,Elections,12,Precautionary measure,Ended
+150,India,Southern Asia,Level 2,Shutdown ,Mobile,Full network,Local government,Elections,1,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+151,India,Southern Asia,Level 2,Shutdown ,Mobile,Full network,Local government,Elections,2,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+152,Kenya,Eastern Africa,Level 1,Shutdown,Mobile,Full network,Non-government,Other,,Sabotage/ Third-party Action,Unknown
+153,India,Southern Asia,Level 2,Shutdown ,Mobile,Full network,Local government,Elections,2,Fake news/ Hate speech/ Incendiary content/ Promoting violence,Ended
+154,India,Southern Asia,Level 1,Shutdown,Mobile,Full network,Local government,Political instability,2,Precautionary measure,Ended
+155,Jordan,Western Asia,Level 3,Shutdown,"Broadband, Mobile",Service-based,Executive government,Exam cheating,5,School exams,Ended
