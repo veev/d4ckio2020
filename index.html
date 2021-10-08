@@ -560,6 +560,8 @@
 
         function getFormattedData(data, radius) {
             const mapped = data.map( d => {
+							d.actual_cause = d.actual_cause.trim()
+ 							d.shutdown_type_new = d.shutdown_type_new.trim()
 								if (d.geo_scope !== 'Level 1' && d.geo_scope !== 'Level 2' && d.geo_scope !== 'Level 3') {
 									console.log(d)
 								}
